@@ -6,8 +6,8 @@ This is the official repository for our paper, "Decouple Then Synergize: Self-Pa
 
 You can download the pre-trained weights and visualization results from the following link:
 
-*   **Link:** [Baidu Netdisk: SPCNet](https://pan.baidu.com/s/1iMQZRlBntVQkok2Y-rTZsw?pwd=8p42)
-*   **Extraction Code:** `8p42`
+*   **Link:** [Baidu Netdisk: SPCNet](https://pan.baidu.com/s/1iMQZRlBntVQkok2Y-rTZsw?)
+*   **Extraction Code:**
 
 ## Base Framework and Dataset
 
