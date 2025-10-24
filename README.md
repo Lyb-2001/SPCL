@@ -10,7 +10,6 @@ This is the official repository for our paper, "Decouple Then Synergize: Self-Pa
 ## Result
 <img width="1766" height="738" alt="ex1" src="https://github.com/user-attachments/assets/10a17fe6-1333-4195-9e39-96dd2142d0a5" />
 <img width="1766" height="1050" alt="vis" src="https://github.com/user-attachments/assets/d6181e7d-5b41-4df6-86ac-508464113c4e" />
-<img width="1766" height="807" alt="ex3" src="https://github.com/user-attachments/assets/ce2f94f1-c6c5-41a1-a151-0ab045d1de6b" />
 
 ## Weights and Visualization Results
 
