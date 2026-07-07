@@ -15,7 +15,7 @@ This is the official repository for our paper, "Decouple Then Synergize: Self-Pa
 
 You can download the pre-trained weights and visualization results from the following link:
 
-*   **Link:** [Baidu Netdisk: SPCNet](https://pan.baidu.com/s/1b5ao0ar1wyLFMvXmmnii-g?)
+*   **Link:** [Baidu Netdisk: SPCNet](https://pan.baidu.com/s/1b5ao0ar1wyLFMvXmmnii-g?pwd=46ri)
 
 ## Base Framework and Dataset
 
